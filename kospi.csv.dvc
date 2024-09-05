@@ -1,0 +1,4 @@
+outs:
+- md5: 9d400031999b006d69e747ff4bdc34f1
+  size: 7621834
+  path: kospi.csv
