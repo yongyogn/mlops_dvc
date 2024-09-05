@@ -1,0 +1,7 @@
+[core]
+    remote = mlops_dvc
+['remote "mlops_dvc"']
+    url = ssh://220.220.220.204:/mlops_demo/dvc
+    user = knime
+    port = 5555
+    password = knime
